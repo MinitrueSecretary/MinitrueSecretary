@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 
 ### Currently interested in
 - Algorithmic Trading
-- Portfolio Construction
-- 
-- Working on a machine learning trading bot.
+- Portfolio Management
+- Machine Learning in Finance
+
+### Working on
+- Improving my backtesting platform
+- Quantitative strategies research 
 
 ## 🖥 Programming Language
 <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b33134f0-8c96-45c0-a2ff-4f952df5aafd" /> <!--Python-->
